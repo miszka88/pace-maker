@@ -1,0 +1,4 @@
+pace_maker.Droid.MainActivity, pace-maker.Android;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
+pace_maker.Droid.MainActivity, pace-maker.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
+pace_maker.Droid.MainActivity;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
+pace_maker.droid.MainActivity;md556a7d44cf292105cffed5f9bed3c737a.MainActivity

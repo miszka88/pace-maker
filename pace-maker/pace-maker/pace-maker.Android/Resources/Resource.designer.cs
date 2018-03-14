@@ -44,8 +44,17 @@ namespace pace_maker.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050003
+			public const int goBtn = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int pace = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int seekBar = 2131034114;
+			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int title = 2131034112;
 			
 			static Id()
 			{
@@ -92,11 +101,14 @@ namespace pace_maker.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int app_name = 2130968577;
-			
 			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			public const int app_name = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int choosePaceLbl = 2130968578;
+			
+			// aapt resource value: 0x7f040001
+			public const int goBtn = 2130968577;
 			
 			static String()
 			{

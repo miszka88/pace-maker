@@ -1,0 +1,9 @@
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\bin\Debug\netstandard2.0\pace-maker.deps.json
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\bin\Debug\netstandard2.0\pace-maker.dll
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\bin\Debug\netstandard2.0\pace-maker.pdb
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.csproj.CoreCompileInputs.cache
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.AssemblyInfoInputs.cache
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.AssemblyInfo.cs
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.dll
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.pdb
+D:\GIT repos\pace-maker\pace-maker\pace-maker\pace-maker\obj\Debug\netstandard2.0\pace-maker.csprojResolveAssemblyReference.cache
