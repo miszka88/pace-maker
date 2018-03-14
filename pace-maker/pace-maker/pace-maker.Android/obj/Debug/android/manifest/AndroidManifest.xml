@@ -5,12 +5,13 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="pace_maker" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
-    <activity android:icon="@mipmap/icon" android:label="pace_maker" android:name="md556a7d44cf292105cffed5f9bed3c737a.MainActivity">
+    <activity android:icon="@mipmap/icon" android:label="Pace Maker" android:name="md556a7d44cf292105cffed5f9bed3c737a.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="PaceActivity" android:name="md548e6ecd1bfb0424a2fe5e4cdeab8686c.Pace" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.pace_maker.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

@@ -2,3 +2,7 @@ pace_maker.Droid.MainActivity, pace-maker.Android;md556a7d44cf292105cffed5f9bed3
 pace_maker.Droid.MainActivity, pace-maker.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
 pace_maker.Droid.MainActivity;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
 pace_maker.droid.MainActivity;md556a7d44cf292105cffed5f9bed3c737a.MainActivity
+pace_maker.Droid.Activities.Pace, pace-maker.Android;md548e6ecd1bfb0424a2fe5e4cdeab8686c.Pace
+pace_maker.Droid.Activities.Pace, pace-maker.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md548e6ecd1bfb0424a2fe5e4cdeab8686c.Pace
+pace_maker.Droid.Activities.Pace;md548e6ecd1bfb0424a2fe5e4cdeab8686c.Pace
+pace_maker.droid.activities.Pace;md548e6ecd1bfb0424a2fe5e4cdeab8686c.Pace
